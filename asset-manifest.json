@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/twowaitswebsite/static/css/main.2b1eb0a8.chunk.css",
+    "main.js": "/twowaitswebsite/static/js/main.bf1adfc7.chunk.js",
+    "main.js.map": "/twowaitswebsite/static/js/main.bf1adfc7.chunk.js.map",
+    "runtime-main.js": "/twowaitswebsite/static/js/runtime-main.185310bb.js",
+    "runtime-main.js.map": "/twowaitswebsite/static/js/runtime-main.185310bb.js.map",
+    "static/css/2.4be38407.chunk.css": "/twowaitswebsite/static/css/2.4be38407.chunk.css",
+    "static/js/2.9a857937.chunk.js": "/twowaitswebsite/static/js/2.9a857937.chunk.js",
+    "static/js/2.9a857937.chunk.js.map": "/twowaitswebsite/static/js/2.9a857937.chunk.js.map",
+    "index.html": "/twowaitswebsite/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/twowaitswebsite/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.2b1eb0a8.chunk.css.map": "/twowaitswebsite/static/css/main.2b1eb0a8.chunk.css.map",
+    "static/js/2.9a857937.chunk.js.LICENSE.txt": "/twowaitswebsite/static/js/2.9a857937.chunk.js.LICENSE.txt",
+    "static/media/AI.cfa926cb.jpg": "/twowaitswebsite/static/media/AI.cfa926cb.jpg",
+    "static/media/Data-Science.420d53a8.jpg": "/twowaitswebsite/static/media/Data-Science.420d53a8.jpg",
+    "static/media/about-image.73b8eccb.png": "/twowaitswebsite/static/media/about-image.73b8eccb.png",
+    "static/media/cc.92b65f7a.png": "/twowaitswebsite/static/media/cc.92b65f7a.png",
+    "static/media/home-image.f8e76fa5.png": "/twowaitswebsite/static/media/home-image.f8e76fa5.png",
+    "static/media/web-dev.c0323ba7.jpeg": "/twowaitswebsite/static/media/web-dev.c0323ba7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.185310bb.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9a857937.chunk.js",
+    "static/css/main.2b1eb0a8.chunk.css",
+    "static/js/main.bf1adfc7.chunk.js"
+  ]
+}
